@@ -1,4 +1,7 @@
-2) entrada, proceso, salida y control.
+3) Es un conjunto de actividades sistematica que enlaza operaciones
+finas para cumplir algun objetivo y cuyos productos informatios y decisiones
+de funcionamiento pueden estar enlazadas en el ordenador,integrado en su red 
+informacional dentro de la del conjunto de la gestion de la compañia. 
 
 
 
