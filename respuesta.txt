@@ -1,5 +1,5 @@
-1)sistemas abiertos
-  sistemas cerrados
-  sistemas absolutamente aislados
-  sistemas relativamente aislados
+2) entrada, proceso, salida y control.
+
+
+
   
